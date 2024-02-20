@@ -1,137 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T12:44:45.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KzQubAKBrKmGX-gxKze0" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T13:19:22.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="oe63EowjxY81rVIlRwjn" version="23.1.5" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="303ed1de8c2c98b4-2" value="Co-Chairman" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-2" value="سكرتارية مجلس الادارة" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="943" y="165" width="242" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-3" value="CEO" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="585" y="245" width="600" height="40" as="geometry" />
+        <mxCell id="303ed1de8c2c98b4-3" value="مجلس الادارة&amp;nbsp;Board of Directors" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="584" y="245" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-4" value="COO" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-4" value="CEO المدير المفوض" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="630" y="335" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-5" value="CTO" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-5" value="قسم ادارة الشعب الفرعية" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="440" y="415" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-6" value="CCO" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-6" value="قسم الحسابات" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="755" y="415" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-7" value="CFO" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-7" value="قسم الشؤون الادارية" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="118" y="415" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-8" value="CMO" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-8" value="قسم الدفع الألكتروني" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1057" y="415" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-9" value="CSO" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-9" value="Audit قسم الرقابة و التدقيق" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1357" y="415" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-10" value="System&lt;div&gt;Admin&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-10" value="امانة الصندوق" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="440" y="485" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-12" value="Lead Front-End" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-12" value="شعبة الفرع" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="590" y="485" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-13" value="Content Specialist" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-13" value="وحدة الميزانية" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="755" y="485" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-14" value="&lt;span&gt;Content Specialist&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-14" value="&lt;span&gt;وحدة الصرف&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="905" y="485" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-15" value="HR" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-15" value="الافراد" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="118" y="485" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-16" value="Admin" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-16" value="الارشيف" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="268" y="485" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-17" value="Community Evangelist" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-17" value="الحوالات" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1057" y="485" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-18" value="Customer Service" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-18" value="خدمة الزبائن" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1207" y="485" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-19" value="Sales Representative" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-19" value="شعبة التفتيش&lt;br&gt;&amp;nbsp;الميداني" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1357" y="485" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-20" value="Account Executive" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-20" value="شعبة تدقيق&amp;nbsp;&lt;br&gt;العمليات المالية" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1507" y="485" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-21" value="Offshore Senior Back-end" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-21" value="وحدة الخدمات العامة" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="440" y="595" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-22" value="Offshore Senior Front-end" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-22" value="العمليات المالية&amp;nbsp;&lt;br&gt;والحسابات" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="590" y="595" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-23" value="Content Specialist" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-24" value="&lt;span&gt;وحدة المخازن&lt;br&gt;و الموجودات&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="755" y="595" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-24" value="&lt;span&gt;Content Specialist&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="905" y="595" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-27" value="Trade Show Team" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-27" value="الصيرفة" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1057" y="595" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-29" value="&lt;span&gt;Sales Representative&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1357" y="595" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-30" value="&lt;span&gt;Account Executive&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-30" value="&lt;span&gt;شعبة الاحصاء&lt;br&gt;والتقييم&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1507" y="595" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-31" value="Offshore Junior Back-end" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="440" y="705" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-33" value="Content Specialist" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="755" y="705" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-37" value="&lt;span&gt;Trade Show Team&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-37" value="&lt;span&gt;المحفظة&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1057" y="705" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-39" value="&lt;span&gt;Sales Representative&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1357" y="705" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-40" value="&lt;span&gt;Account Executive&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1507" y="705" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-41" value="Offshore Junior Back-end" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="440" y="815" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-47" value="&lt;span&gt;Trade Show Team&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1057" y="815" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-49" value="&lt;span&gt;Sales Representative&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1357" y="815" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-50" value="&lt;span&gt;Account Executive&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1507" y="815" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-59" value="&lt;span&gt;Sales Representative&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1357" y="925" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-60" value="&lt;span&gt;Account Executive&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1507" y="925" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-69" value="PR" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-69" value="الخدمات العامة" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="119" y="595" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-70" value="Admin" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-70" value="الخدمات الفنية" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="269" y="595" width="125" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-72" value="Co-Chairman" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="303ed1de8c2c98b4-72" value="نائب رئيس المجلس" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="585" y="165" width="242" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-73" value="&lt;span&gt;Trade Show Team&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1057" y="925" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-74" value="&lt;span&gt;Content Specialist&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="905" y="705" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-75" value="&lt;span&gt;Content Specialist&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="755" y="815" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-76" value="Offshore Junior Front-end" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="590" y="705" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-77" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;" parent="1" source="303ed1de8c2c98b4-72" target="303ed1de8c2c98b4-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -195,20 +147,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-87" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;entryX=1;entryY=0.5;endArrow=none;" parent="1" source="303ed1de8c2c98b4-5" target="303ed1de8c2c98b4-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="578" y="745" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-88" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-5" target="303ed1de8c2c98b4-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="578" y="855" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="303ed1de8c2c98b4-89" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;entryX=0;entryY=0.5;endArrow=none;" parent="1" source="303ed1de8c2c98b4-5" target="303ed1de8c2c98b4-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -223,13 +161,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-91" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;entryX=0;entryY=0.5;endArrow=none;" parent="1" source="303ed1de8c2c98b4-5" target="303ed1de8c2c98b4-76" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="578" y="745" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="303ed1de8c2c98b4-92" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-6" target="303ed1de8c2c98b4-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -237,45 +168,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-93" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-6" target="303ed1de8c2c98b4-23" edge="1">
+        <mxCell id="303ed1de8c2c98b4-95" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;" parent="1" source="303ed1de8c2c98b4-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="893" y="635" />
+              <mxPoint x="893" y="640" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-94" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-6" target="303ed1de8c2c98b4-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="892" y="745" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-95" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-6" target="303ed1de8c2c98b4-75" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="892" y="855" />
-            </Array>
+            <mxPoint x="880" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-96" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=0;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-6" target="303ed1de8c2c98b4-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="892" y="525" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-97" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=0;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-6" target="303ed1de8c2c98b4-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="892" y="635" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-98" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=0;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-6" target="303ed1de8c2c98b4-74" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="892" y="745" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -335,20 +239,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-107" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-8" target="303ed1de8c2c98b4-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1195" y="855" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-108" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-8" target="303ed1de8c2c98b4-73" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1195" y="965" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="303ed1de8c2c98b4-109" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-9" target="303ed1de8c2c98b4-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -356,34 +246,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-110" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-9" target="303ed1de8c2c98b4-29" edge="1">
+        <mxCell id="303ed1de8c2c98b4-110" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1495" y="635" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-111" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-9" target="303ed1de8c2c98b4-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1680" y="740" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1495" y="580" />
-              <mxPoint x="1495" y="745" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-112" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-9" target="303ed1de8c2c98b4-49" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1495" y="855" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="303ed1de8c2c98b4-113" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=1;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-9" target="303ed1de8c2c98b4-59" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1495" y="965" />
-            </Array>
+            <mxPoint x="1494.5" y="455" as="sourcePoint" />
+            <mxPoint x="1490" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-114" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=0;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-9" target="303ed1de8c2c98b4-20" edge="1">
@@ -400,26 +269,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-116" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=0;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-9" target="303ed1de8c2c98b4-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1495" y="745" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="sYHag_COW_j3LeGAnEDF-1" value="شعبة الامتثال" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="260" width="168" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-117" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=0;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-9" target="303ed1de8c2c98b4-50" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1495" y="855" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="sYHag_COW_j3LeGAnEDF-2" value="الشعبة القانونية" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="261" width="168" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-118" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=16;rounded=0;endArrow=none;entryX=0;entryY=0.5;" parent="1" source="303ed1de8c2c98b4-9" target="303ed1de8c2c98b4-60" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1495" y="965" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="sYHag_COW_j3LeGAnEDF-3" value="شعبة نظم المعلومات" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="168" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sYHag_COW_j3LeGAnEDF-4" value="البحث و التطوير" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="168" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sYHag_COW_j3LeGAnEDF-5" value="هيكلية شركة الدفع الالكترونية المقترحة" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1;fontSize=32;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="579" y="940" width="610" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
