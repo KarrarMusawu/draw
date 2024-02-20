@@ -1,43 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T13:04:34.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jQSDr5YIceCHbJN7HG8z" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T12:01:17.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="H7Si8q1lwlZMH_AL5kiN" version="23.1.5" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1912" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4" value="HR ادارة الموارد البشرية" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=17;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="454.5" width="160" height="60" as="geometry" />
+          <mxGeometry x="10" y="454.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3" value="CEO" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=17;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="822" y="345.5" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Finance المالية" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=17;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="544" y="455.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="501" y="455.5" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6" value="IT تكنلوجية المعلومات" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=17;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="986" y="454.5" width="170" height="60" as="geometry" />
+          <mxGeometry x="1220" y="453.5" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Audit الرقابة و التدقيق" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=17;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="358" y="452.5" width="160" height="60" as="geometry" />
+          <mxGeometry x="334" y="455.75" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" value="Business  الاعمال" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=17;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1171" y="452.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="1400" y="453.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="11" value="Operation التنفيذ" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=17;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1394" y="452.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="1580" y="453.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;" parent="1" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
-            <mxPoint x="932" y="403.5" as="sourcePoint" />
-            <mxPoint x="612" y="453.5" as="targetPoint" />
+            <mxPoint x="931" y="402" as="sourcePoint" />
+            <mxPoint x="581" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;" parent="1" source="3" edge="1">
+        <mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;" parent="1" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
-            <mxPoint x="182" y="265.5" as="sourcePoint" />
-            <mxPoint x="230" y="450" as="targetPoint" />
+            <mxPoint x="932" y="408.5" as="sourcePoint" />
+            <mxPoint x="70" y="443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;" parent="1" edge="1">
+        <mxCell id="32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="11" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="930" y="400.5" as="sourcePoint" />
             <mxPoint x="1460" y="455" as="targetPoint" />
@@ -45,71 +45,107 @@
         </mxCell>
         <mxCell id="39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;" parent="1" edge="1">
           <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
-            <mxPoint x="419.5" y="428" as="sourcePoint" />
-            <mxPoint x="419.5" y="455.5" as="targetPoint" />
+            <mxPoint x="414.5" y="428" as="sourcePoint" />
+            <mxPoint x="414.5" y="455.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;" parent="1" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="932" y="398" as="sourcePoint" />
-            <mxPoint x="1222" y="448" as="targetPoint" />
+            <mxPoint x="1460" y="448" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1052" y="428" />
               <mxPoint x="1132" y="393.5" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xqLkP6JCB7rxwv551sbq-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1">
+        <mxCell id="xqLkP6JCB7rxwv551sbq-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;" edge="1" parent="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
-            <mxPoint x="930" y="393" as="sourcePoint" />
-            <mxPoint x="1071" y="451.5" as="targetPoint" />
+            <mxPoint x="930" y="400" as="sourcePoint" />
+            <mxPoint x="1322" y="452" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="867" y="428.5" />
-              <mxPoint x="947" y="394" />
+              <mxPoint x="869" y="428.5" />
+              <mxPoint x="949" y="394" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-61" value="الرقابة الداخلية" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="533.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="333" y="532" width="160" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-64" value="الإيرادات والأرباح &#xa;والتخطيط والنفقات" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="566" y="537.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="503" y="537.5" width="160" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-65" value="المصالحة وضمان الإيرادات" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="568" y="645.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="500" y="640" width="160" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-66" value="الدعم العام" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="567" y="748.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="501" y="748.5" width="160" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-67" value="عمليات منصة الدفع &#xa;عبر الهاتف النقال" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="994" y="537.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="1225" y="530" width="160" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-68" value="العمليات و الصيانة&#xa;و الدعم التقني" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="996" y="645.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="1225" y="626" width="160" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-70" value="التسويق و الاعلان" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1193" y="539.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="1410" y="530" width="150" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-71" value="العلاقات و الشراكات" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="647.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="1410" y="626" width="154" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-72" value="خدمات الزبائن" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1194" y="750.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="1407" y="728.5" width="160" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-73" value="المحفظة" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1411" y="540.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="1598" y="530" width="140" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-74" value="التحويلات المالية" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1413" y="648.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="1599" y="626" width="143" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-75" value="دعم العميل / التاجر" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1412" y="751.5" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="1603" y="728.5" width="140" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-76" value="الموارد البشرية" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="1414" y="850" width="160" height="88.5" as="geometry" />
+          <mxGeometry x="1609" y="830" width="132.5" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="xqLkP6JCB7rxwv551sbq-78" value="هيكلية شركة الدفع الالكترونية المقترحة" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontStyle=1;fontSize=32;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="627" y="990" width="610" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xqLkP6JCB7rxwv551sbq-80" value="ادارة المخاطر" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="454.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqLkP6JCB7rxwv551sbq-82" value="R&amp;D  البحث و التطوير" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="458.5" width="155" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xqLkP6JCB7rxwv551sbq-83" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;" edge="1" parent="1">
+          <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="242.5" y="427" as="sourcePoint" />
+            <mxPoint x="242.5" y="454.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xqLkP6JCB7rxwv551sbq-85" value="القانونية" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="453.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqLkP6JCB7rxwv551sbq-86" value="ادارة الفروع" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=17;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="454.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqLkP6JCB7rxwv551sbq-87" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;" edge="1" parent="1">
+          <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="749.72" y="428" as="sourcePoint" />
+            <mxPoint x="749.72" y="455.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xqLkP6JCB7rxwv551sbq-90" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;" edge="1" parent="1">
+          <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="931.72" y="426" as="sourcePoint" />
+            <mxPoint x="931.72" y="453.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xqLkP6JCB7rxwv551sbq-91" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;fontSize=17;" edge="1" parent="1">
+          <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="1129.72" y="428.25" as="sourcePoint" />
+            <mxPoint x="1129.72" y="455.75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
