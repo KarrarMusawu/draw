@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T13:40:14.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="HiaKQdJN8mCyTqC_Xof2" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T13:41:46.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="NivOw46veRv06Zgakl2F" version="23.1.5" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -125,12 +125,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-84" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=20;rounded=0;endArrow=none;fontStyle=1" parent="1" source="303ed1de8c2c98b4-4" target="303ed1de8c2c98b4-9" edge="1">
+        <mxCell id="303ed1de8c2c98b4-84" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=20;rounded=0;endArrow=none;fontStyle=1" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="885" y="477" />
-              <mxPoint x="1494" y="477" />
+              <mxPoint x="886" y="353" />
+              <mxPoint x="1495" y="353" />
             </Array>
+            <mxPoint x="886" y="276.9999999999998" as="sourcePoint" />
+            <mxPoint x="1495" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-85" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=20;rounded=0;entryX=1;entryY=0.5;endArrow=none;fontStyle=1" parent="1" source="303ed1de8c2c98b4-5" target="303ed1de8c2c98b4-10" edge="1">
@@ -269,13 +271,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYHag_COW_j3LeGAnEDF-1" value="شعبة الامتثال" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="sYHag_COW_j3LeGAnEDF-1" value="شعبة نظم المعلومات" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1250" y="291" width="168" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sYHag_COW_j3LeGAnEDF-2" value="الشعبة القانونية" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1440" y="291" width="168" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sYHag_COW_j3LeGAnEDF-3" value="شعبة نظم المعلومات" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="sYHag_COW_j3LeGAnEDF-3" value="شعبة الامتثال" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="360" y="293" width="168" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sYHag_COW_j3LeGAnEDF-4" value="البحث و التطوير" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#10739E;strokeColor=#666666;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
@@ -288,7 +290,7 @@
           <mxGeometry x="630" y="422" width="168" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sYHag_COW_j3LeGAnEDF-7" value="مكافحة غسيل&lt;br style=&quot;font-size: 20px;&quot;&gt;الاموال" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=20;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1293" y="405" width="125" height="59" as="geometry" />
+          <mxGeometry x="381.5" y="390" width="125" height="59" as="geometry" />
         </mxCell>
         <mxCell id="sYHag_COW_j3LeGAnEDF-8" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=20;rounded=0;endArrow=none;fontStyle=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -329,10 +331,10 @@
         <mxCell id="sYHag_COW_j3LeGAnEDF-12" style="edgeStyle=orthogonalEdgeStyle;html=1;startSize=6;endFill=0;endSize=6;strokeWidth=1;fontSize=20;rounded=0;endArrow=none;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1357" y="405" />
+              <mxPoint x="438" y="389.94" />
             </Array>
-            <mxPoint x="1357" y="332" as="sourcePoint" />
-            <mxPoint x="1359" y="405" as="targetPoint" />
+            <mxPoint x="438" y="316.94" as="sourcePoint" />
+            <mxPoint x="440" y="389.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sYHag_COW_j3LeGAnEDF-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.488;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sYHag_COW_j3LeGAnEDF-6">
